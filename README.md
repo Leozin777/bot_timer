@@ -1,16 +1,18 @@
-# bot_timer
+# ⏱️ bot_timer
 
-A new Flutter project.
+**bot_timer** é um aplicativo simples feito com Flutter que permite configurar contagens regressivas personalizadas com alertas sonoros. Ao fim do tempo configurado, o app toca um áudio. Ele possui um som padrão, mas também permite que o usuário adicione seus próprios áudios.
 
-## Getting Started
+## 🎯 Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Defina um tempo personalizado (em minutos).
+- Reproduz um som ao fim do temporizador.
+- Áudio padrão incluso no app.
+- Suporte para múltiplos áudios personalizados.
+- Interface simples e intuitiva.
 
-A few resources to get you started if this is your first Flutter project:
+### ✅ Instalação (usuário final)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Acesse a aba **[Releases](https://github.com/seu-usuario/bot_timer/releases)** do repositório.
+2. Baixe o arquivo `BotTimerSetup.exe` mais recente.
+3. Execute o instalador e siga as instruções na tela.
+4. Após a instalação, abra o aplicativo e configure seus áudios e o timer!!!
