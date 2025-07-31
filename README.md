@@ -10,7 +10,7 @@
 - Suporte para múltiplos áudios personalizados.
 - Interface simples e intuitiva.
 
-### ✅ Instalação (usuário final)
+### ✅ Instalação
 
 1. Acesse a aba **[Releases](https://github.com/seu-usuario/bot_timer/releases)** do repositório.
 2. Baixe o arquivo `BotTimerSetup.exe` mais recente.
